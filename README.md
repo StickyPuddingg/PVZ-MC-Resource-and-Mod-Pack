@@ -5,22 +5,23 @@ ALL RIGHTS RESERVED TO ORIGINAL COMPOSERS AND ARTISTS
 I DO NOT CLAIM TO OWN ANY OF THE MUSIC AND OR ART THAT ORIGINATES DIRECTLY FROM THE PVZ FRANCHISE.
 
 I only claim to have made the hotbar ui elements with the help of a friend named gamerg
-
-
-
+#
+#
 INVITE TO DISCORD SERVER
 
 https://discord.gg/RbgJG3RZjA
-
-
-How to only install resourcepack:
+#
+#
+#
+#
+How to ONLY install resourcepack:
 
 download PVZ Resource Pack.zip and place it in your resourcepack folder in your minecraft installation, then enable it.
-
-
-
-
-Below is a guide for installing my modpack via modrinth
+#
+#
+#
+#
+Below is a guide for installing my modpack via modrinth which includes resourcepack
 
 ## Get ready to defend your brains! Since we are running on **Minecraft 26.1.2** , follow these specific steps to get your game updated and ready.
 
