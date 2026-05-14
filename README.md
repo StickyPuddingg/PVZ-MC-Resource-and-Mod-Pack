@@ -11,8 +11,10 @@ INVITE TO DISCORD SERVER
 https://discord.gg/RbgJG3RZjA
 
 
+
+
 Below is a guide for installing my modpack via modrinth
-||
+
 ## Get ready to defend your brains! Since we are running on **Minecraft 26.1.2** , follow these specific steps to get your game updated and ready for the server.
 
 ---
@@ -45,9 +47,7 @@ Note: you will receive a warning because my  PVZ Resource Pack.zip within the .m
 1.  Open the installed instance
 2.  Hit **Play** and head to the Multiplayer menu to join the server!
 
-IP for my server :||||brainz.ddns.net|| ||
-
-Out of respect of the server owners here i will not paste a link to my smp discord, however if you wish to join for info on server updates, changes, ect a link will be left in the github read me
+IP for my server : brainz.ddns.net 
 
 > **Having Trouble?** 
 > Minecraft 26.1.2 requires **Java 25** or higher. If your game won't start, make sure your Java version is up to date!
