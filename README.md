@@ -11,7 +11,8 @@ INVITE TO DISCORD SERVER
 https://discord.gg/RbgJG3RZjA
 
 
-How to only install resourcepack
+How to only install resourcepack:
+
 download PVZ Resource Pack.zip and place it in your resourcepack folder in your minecraft installation, then enable it.
 
 
