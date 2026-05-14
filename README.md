@@ -6,6 +6,8 @@ I DO NOT CLAIM TO OWN ANY OF THE MUSIC AND OR ART THAT ORIGINATES DIRECTLY FROM 
 
 I only claim to have made the hotbar ui elements with the help of a friend named gamerg
 
+
+
 INVITE TO DISCORD SERVER
 
 https://discord.gg/RbgJG3RZjA
@@ -14,6 +16,8 @@ https://discord.gg/RbgJG3RZjA
 How to only install resourcepack:
 
 download PVZ Resource Pack.zip and place it in your resourcepack folder in your minecraft installation, then enable it.
+
+
 
 
 Below is a guide for installing my modpack via modrinth
