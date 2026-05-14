@@ -4,7 +4,7 @@
 ALL RIGHTS RESERVED TO ORIGINAL COMPOSERS AND ARTISTS
 I DO NOT CLAIM TO OWN ANY OF THE MUSIC AND OR ART THAT ORIGINATES DIRECTLY FROM THE PVZ FRANCHISE.
 
-I only claim to have made the ui elements with the help of a friend named gamerg
+I only claim to have made the hotbar ui elements with the help of a friend named gamerg
 
 INVITE TO DISCORD SERVER
 
