@@ -11,11 +11,13 @@ INVITE TO DISCORD SERVER
 https://discord.gg/RbgJG3RZjA
 
 
+How to only install resourcepack
+download PVZ Resource Pack.zip and place it in your resourcepack folder in your minecraft installation, then enable it.
 
 
 Below is a guide for installing my modpack via modrinth
 
-## Get ready to defend your brains! Since we are running on **Minecraft 26.1.2** , follow these specific steps to get your game updated and ready for the server.
+## Get ready to defend your brains! Since we are running on **Minecraft 26.1.2** , follow these specific steps to get your game updated and ready.
 
 ---
 
