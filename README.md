@@ -1,1 +1,55 @@
 <img width="256" height="256" alt="pack" src="https://github.com/user-attachments/assets/097dd381-8633-403e-8650-fa24edd6d08c" />
+
+
+ALL RIGHTS RESERVED TO ORIGINAL COMPOSERS AND ARTISTS
+I DO NOT CLAIM TO OWN ANY OF THE MUSIC AND OR ART THAT ORIGINATES DIRECTLY FROM THE PVZ FRANCHISE.
+
+I only claim to have made the hotbar ui elements with the help of a friend named gamerg
+
+INVITE TO DISCORD SERVER
+
+https://discord.gg/RbgJG3RZjA
+
+
+
+
+Below is a guide for installing my modpack via modrinth
+
+## Get ready to defend your brains! Since we are running on **Minecraft 26.1.2** , follow these specific steps to get your game updated and ready for the server.
+
+---
+
+### Step 1: Install and open Modrinth
+
+
+1.  **Download:** Go to the official [Modrinth Installer page](https://modrinth.com/app).
+2.  **Run the Installer:** 
+
+---
+
+### Step 2: Install the Mods
+The mods are bundled in the `Sticky's PVZ SMP modpack 1.0.0.mrpack` file on my github. 
+
+1.  **Create a instance:** 
+    *   On the far left there should be a **+** icon , click it.
+    *   After clicking select `install modpack` 
+    *   Click `import modpack` 
+    *   select `Sticky's PVZ SMP modpack 1.0.0.mrpack` for the import
+Note: you will receive a warning because my  PVZ Resource Pack.zip within the .mrpack isnt on modrinth, ignore it. 
+(feel free to virus check PVZ Resource Pack.zip if it makes you nervous)
+
+2.  **Wait for Install and Profit** 
+    *   The modpack currently includes a horde system, some shaders which should be disabled by default, and some other groovy features
+
+---
+
+### Step 3: Launch and Play
+1.  Open the installed instance
+2.  Hit **Play** and head to the Multiplayer menu to join the server!
+
+IP for my server : brainz.ddns.net 
+
+> **Having Trouble?** 
+> Minecraft 26.1.2 requires **Java 25** or higher. If your game won't start, make sure your Java version is up to date!
+> https://www.oracle.com/java/technologies/downloads/#jdk26-windows
+> ||
