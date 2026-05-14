@@ -22,9 +22,6 @@ download PVZ Resource Pack.zip and place it in your resourcepack folder in your 
 #
 #
 ## Below is a guide for installing my modpack via modrinth which includes resourcepack
-
-## Get ready to defend your brains! Since we are running on **Minecraft 26.1.2** , follow these specific steps to get your game updated and ready.
-
 ---
 
 ### Step 1: Install and open Modrinth
